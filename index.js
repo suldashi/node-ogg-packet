@@ -3,7 +3,7 @@
  * Module dependencies.
  */
 
-var Struct = require('ref-struct');
+var Struct = require('@suldashi/ref-struct');
 
 /**
  * `ogg_packet` is used to encapsulate the data and metadata belonging
